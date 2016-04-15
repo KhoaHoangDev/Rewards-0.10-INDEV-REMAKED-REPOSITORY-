@@ -1,0 +1,6 @@
+name: Rewards
+author: KhoaHoang
+api: [1.14.0, 2.0.0]
+version: 0.10
+main: KhoaHoang\Rewards
+---
